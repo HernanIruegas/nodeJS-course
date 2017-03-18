@@ -5,6 +5,7 @@ function greet() {
 greet();
 
 // functions are first-class
+//which means that we can pass functions as parameters
 function logGreeting(fn) {
 	fn();
 }
