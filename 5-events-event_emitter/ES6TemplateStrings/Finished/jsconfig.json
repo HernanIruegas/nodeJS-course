@@ -1,0 +1,5 @@
+{ //vs code does not warn us about new features that don't exist
+    "compilerOptions": {
+        "target": "ES6"
+    }
+}
