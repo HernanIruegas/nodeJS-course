@@ -5,6 +5,7 @@ var obj = {
 
 console.log(obj.greet);
 console.log(obj['greet']);
+
 //You can use a variable to dynamically grab a value off a property or method in an object
 var prop = 'greet';//prop is set equal to a string (which is the property of obj)
 console.log(obj[prop]); //prop points to the "greet" property
